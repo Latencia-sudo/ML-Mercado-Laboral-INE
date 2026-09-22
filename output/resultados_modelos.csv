@@ -1,0 +1,5 @@
+"Modelo","Accuracy","Kappa"
+"Regresión logística",0.8125,0.720930232558139
+"Random Forest",0.625,0.435294117647059
+"SVM",0.5625,0.348837209302326
+"Árbol de decisión",0,-0.542168674698795
