@@ -77,7 +77,7 @@ Estos resultados corresponden al conjunto de datos utilizado en este proyecto.
 
 ### Kappa
 
-![Comparación de Kappa](figures/Figura5_Kappa.png)
+![Comparación de Kappa](figures/Figura5_kappa.png)
 
 ### Importancia de variables
 
